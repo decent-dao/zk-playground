@@ -9,3 +9,13 @@ out/
 
 # Dotenv file
 .env
+
+# Javascript
+node_modules
+
+zk/commit_reveal
+zk/commit_reveal.json
+zk/commit_reveal.r1cs
+zk/proving.key
+zk/verification.key
+src/CommitRevealProofVerifier.sol
